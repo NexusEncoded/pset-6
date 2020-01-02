@@ -1,0 +1,17 @@
+* {
+  margin : 999;
+  padding : 15;
+  font-family: "Verdana";
+
+  font-size: 25
+
+}
+
+body{
+    background-color: #2a2a2a;
+    color : white;
+}
+
+#1{
+  border-radius: 25px;
+}
