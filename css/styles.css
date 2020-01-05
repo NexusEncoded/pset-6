@@ -6,30 +6,30 @@
 
 body{
     background-color: #2a2a2a;
-    color : red;
+    color : white;
 }
 
 h1{
   font-weight: bold;
   font-size: 50px;
-  text-shadow: 2px 2px #fff;
+/*  text-shadow: 2px 2px #fff; */
 }
 header{
   background-color: #6a6c6e;
-  border-radius: 25px;
+  border-radius: 12px;
   text-align: center;
   margin-bottom: 5px;
   margin-left: 75px;
   margin-right: 75px;
 }
-.list1{
+.image1{
   width: 80px;
   height:70px;
   position: relative;
   top: 15px;
   right: 25px;
 }
-.list2{
+.image2{
   width: 80px;
   height:70px;
   position: relative;
@@ -37,7 +37,7 @@ header{
   right:10px;
 }
 
-/*Input and Add button*/
+
 input{
   width: 50%;
   padding: 12px 20px;
@@ -48,11 +48,11 @@ input{
 .addButton{
   width: 70px;
   height: 70px;
-  background-color: white;
-  border-radius: 50%;
+  background-color: black;
+  border-radius: 12px;
   box-shadow: 0 6px 10px 0 #000000;
   font-size: 50px;
-  color: #3d827f;
+  color: #8babcc;
   text-align: center;
   font-weight: bold;
   position: relative;
