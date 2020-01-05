@@ -6,19 +6,18 @@
 
 body{
     background-color: #2a2a2a;
-    color : blue;
+    color : red;
 }
-/*Title and stuff*/
+
 h1{
   font-weight: bold;
   font-size: 50px;
   text-shadow: 2px 2px #fff;
 }
 header{
-  background-color: #3d827f;
-  border-radius: 20px;
+  background-color: #6a6c6e;
+  border-radius: 25px;
   text-align: center;
-  padding: 10px 10px;
   margin-bottom: 5px;
   margin-left: 75px;
   margin-right: 75px;
