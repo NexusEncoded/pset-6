@@ -114,14 +114,14 @@ ul li:hover {
 .close {
   position: absolute;
   right: 100px;
-  border-radius: 20px;
+  border-radius: 12px;
   width: 40px;
   height: 40px;
   font-size: 30px;
   text-align: center;
   box-shadow: 0 6px 10px 0 #000000;
   font-weight: bold;
-  color: #3d827f;
+  color: black;
   background-color: white;
 
 }
