@@ -43,6 +43,7 @@ input{
   padding: 12px 20px;
   margin: 7px 0;
   box-sizing: border-box;
+  text-align: center;
 }
 
 .addButton{
@@ -60,20 +61,20 @@ input{
   bottom: 5px;
 }
 .addButton:hover{
-  background-color: #2a4c52;
+  background-color: #1d5ea1;
   font-size: 50px;
   color: #fff;
 }
 
 #item{
-  border-radius: 20px;
+  border-radius: 12px;
   margin-top: 5px;
   font-size: 24px;
   position: relative;
   top: -10px;
 }
 
-/*Actual todo list*/
+
 ul{
   cursor: pointer;
   width: 90%;
@@ -89,12 +90,12 @@ ul{
   line-height: 70px;
 
 }
-.container{
-  background-color:#e1e1e8;
+.contain{
+  background-color:#325c87;
   margin-bottom: 5px;
   height: 500px;
   padding: 15px;
-  border-radius: 20px;
+  border-radius: 12px;
   padding: 10px 10px;
   margin-left: 75px;
   margin-right: 75px;
@@ -109,7 +110,7 @@ ul li:hover {
   text-decoration: line-through;
 }
 
-/*Buttons*/
+
 .close {
   position: absolute;
   right: 100px;
